@@ -20,7 +20,7 @@ And you know what's more great?
 
 You can CODE the website yourself! :)
 
-See you~
+See you.
 
 
 ---
