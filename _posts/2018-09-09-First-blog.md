@@ -4,7 +4,7 @@ title:      First blog
 subtitle:   Recording beauty and fun of life 
 date:       2018-09-09
 author:     Yan Gao
-header-img: img/First_blog_Eiffel_Tower.jpg
+header-img: images/First_blog_Eiffel_Tower.jpg
 catalog: true
 tags:
     - 
@@ -18,7 +18,7 @@ I found it is so easy to write and share something online.
 
 And you know what's more great? 
 
-You can CODE the website yourself! :)
+You can design the website yourself! :)
 
 See you.
 
